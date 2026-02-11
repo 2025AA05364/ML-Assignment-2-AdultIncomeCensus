@@ -165,7 +165,7 @@ else:
         # Performance Overview (INLINE MODEL NAME)
         # --------------------------------------------------
         st.markdown('<div class="section-box">', unsafe_allow_html=True)
-        st.subheader(f"📊 Performance Overview : {model_name_display}")
+        st.subheader(f"📊 Performance Overview (Evaluation Metrics): {model_name_display}")
 
         acc = accuracy_score(y_test, y_pred)
         auc = roc_auc_score(y_test, y_prob)
