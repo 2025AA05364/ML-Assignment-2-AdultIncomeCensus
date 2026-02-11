@@ -138,7 +138,7 @@ upload only test data]
 
 ## GitHub Repository
 
-[Adult Census Income Prediction Project Repository](https://github.com/2025AA05364/ML-Assignment2-adultcensus.git)
+[Adult Census Income Prediction Project Repository](https://github.com/2025AA05364/ML-Assignment-2-AdultIncomeCensus.git)
 
 ### Streamlit App Link
 [Adult Census Income Prediction App](https://adult-census-income-prediction-2025aa05364.streamlit.app/)
