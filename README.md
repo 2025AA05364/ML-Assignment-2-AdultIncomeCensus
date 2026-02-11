@@ -143,15 +143,5 @@ upload only test data]
 ### Streamlit App Link
 [Adult Census Income Prediction App](https://adult-census-income-prediction-2025aa05364.streamlit.app/)
 
-## References
-
-1. Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
-2. Adult Census Income dataset on Kaggle: https://www.kaggle.com/datasets/uciml/adult-census-income
-
-
-## Acknowledgments
-- Kaggle for the Adult Census Income dataset
-- BITS Pilani for the assignment framework
-
 ## Created By
 Dinesh B M
